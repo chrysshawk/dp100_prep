@@ -1,0 +1,5 @@
+# ignore mslearn folder
+mslearn-dp100/
+
+# ignore workplace config
+config.json
